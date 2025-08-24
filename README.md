@@ -1,4 +1,11 @@
-# InjX Scanner - SQLi & XSS Scanner (Belajar) 🎓
+<h2 align="center"> 
+  <b> Total Visits </b><br><br>
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FWannnIl%2FInjX-Scanner&countColor=%23028b91" /> <br /> <br />
+</h2>
+
+# InjX Scanner - SQLi & XSS Scanner (Belajar) 🎓 ![Python 2|3](https://img.shields.io/badge/python-2|3-yellow.svg)
+
+<img src="https://github.com/WannnIl/InjX-Scanner/blob/main/screenshot/exa1.png?raw=true">
 
 **InjX Scanner** adalah tools sederhana untuk mendeteksi **SQL Injection (SQLi)** dan **Reflected XSS** pada parameter URL.  
 Tools ini dibuat sebagai **alat belajar** untuk memahami dasar keamanan web dan **testing parameter URL**.  
